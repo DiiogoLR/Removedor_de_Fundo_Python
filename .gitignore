@@ -1,0 +1,17 @@
+# Ambientes virtuais
+venv/
+env/
+
+# Arquivos temporários
+*.pyc
+__pycache__/
+
+# Configurações do editor
+.vscode/
+*.code-workspace
+
+# Arquivos de saída
+img1.png
+
+# Instalador baixado
+python-installer.exe
